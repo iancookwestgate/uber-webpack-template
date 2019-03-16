@@ -1,8 +1,6 @@
 # Project Title
 
-#### Epicodus JavaScript exercise, Date
-
-#### By Your Name Here
+#### By **Ian Cook Westgate**
 
 ## Description
 
@@ -24,15 +22,11 @@ Add description here
 * `npm run lint` to explicitly run ESLint
 * `npm run test` to run the unit tests with Karma and Jasmine. Visit `localhost:9876` to view the tests.
 
-## Contribution Requirements
-
-1. Clone the repo
-1. Make a new branch
-1. Commit and push your changes
-1. Create a PR
-
 ## Technologies Used
 
+* HTML
+* CSS
+  * SASS
 * JavaScript
 * Node.js
 * jQuery 3.3.1
@@ -43,9 +37,13 @@ Add description here
 * Jasmine
 * Karma
 
-## Links
+## Known Bugs
 
-* Add links here
+* There are no known bugs at this time.
+
+## Support and contact details
+
+_Email iwestgate@hotmail.com with any questions, comments, or concerns._
 
 ## License
 
